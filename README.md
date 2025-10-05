@@ -1,1 +1,1 @@
-# serimpark.github.io# serimpark.github.io
+# Serim's study log
